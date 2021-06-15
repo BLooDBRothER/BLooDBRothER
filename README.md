@@ -1,5 +1,6 @@
 ### Welcome 👋
-![Alt Text](https://media.giphy.com/media/av9P7OBT4OoAgdrCkW/giphy.gif)
+
+ <div align="center"><img align="center" src="https://media.giphy.com/media/CoTCLM6Zls0SiyxNmB/giphy.gif" /></div>
 
 <!--
 
