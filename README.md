@@ -1,5 +1,6 @@
- <div align="center"><img align="center" src="https://media.giphy.com/media/CoTCLM6Zls0SiyxNmB/giphy.gif" /></div>
-
+ <div align="center"><img align="right" src="https://media.giphy.com/media/CoTCLM6Zls0SiyxNmB/giphy.gif" /></div>
+ 
+![data](https://github-readme-streak-stats.herokuapp.com/?user=BLooDBRothER&theme=algolia&layout=compact&hide_border=true%22)
 <!--
 
 **BLooDBRothER/BLooDBRothER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
