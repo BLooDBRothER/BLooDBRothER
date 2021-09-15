@@ -1,6 +1,7 @@
- <div align="center"><img align="right" src="https://media.giphy.com/media/CoTCLM6Zls0SiyxNmB/giphy.gif" /></div>
- 
-![data](https://github-readme-streak-stats.herokuapp.com/?user=BLooDBRothER&theme=algolia&layout=compact&hide_border=true%22)
+ <div align=center><img align=center src="https://media.giphy.com/media/CoTCLM6Zls0SiyxNmB/giphy.gif"/></div>
+ <hr>
+ <img align=left src="https://github-readme-streak-stats.herokuapp.com/?user=BLooDBRothER&theme=radical&layout=compact&border=false" width=45%>
+ <img align=right src="https://github-readme-stats.vercel.app/api?username=bloodbrother&theme=radical&show_icons=true" width=45%>
 <!--
 
 **BLooDBRothER/BLooDBRothER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
