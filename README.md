@@ -51,7 +51,7 @@
  <br>
   <div align=center><img width=60% src="https://github-readme-stats.vercel.app/api?username=bloodbrother&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF&hide=commits" /></div>
  <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=bloodbrother&theme=redical"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=bloodbrother&hide_border=true&bg_color=0d1117&color=58A6FF&point=ffc800&line=DD2727&custom_title=BLooDBRothER-[Arul%20Murugavel]'s%20Activity"/>
 </a>
 <!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""> -->
 
