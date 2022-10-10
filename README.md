@@ -44,7 +44,6 @@
 
  <hr>
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodbrother&layout=compact&hide=scss, less&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF" />-->
- <a href="https://holopin.io/@bloodbrother"><img src="https://holopin.io/api/user/board?user=bloodbrother"></a>
  <a href="https://github.com/bloodbrother">
   <img src="https://github-readme-streak-stats.herokuapp.com?user=bloodbrother&background=0D1117&dates=ffc800&currStreakNum=DD2727&fire=DD2727&ring=58A6FF&sideNums=ffc800&currStreakLabel=58A6FF&stroke=58A6FF&sideLabels=58A6FF&hide_border=true&layout=compact" height="180em"/>
  <br>
@@ -52,6 +51,7 @@
  <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=bloodbrother&hide_border=true&bg_color=0d1117&color=58A6FF&point=ffc800&line=DD2727&custom_title=BLooDBRothER-[Arul%20Murugavel]'s%20Activity"/>
 </a>
+<a href="https://holopin.io/@bloodbrother"><img src="https://holopin.io/api/user/board?user=bloodbrother"></a>
 <!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""> -->
 
 
