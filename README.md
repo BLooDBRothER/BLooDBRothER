@@ -59,9 +59,6 @@
 </a>
 <a href="https://holopin.io/@bloodbrother"><img src="https://holopin.io/api/user/board?user=bloodbrother"></a>
 <!--  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt=""> -->
-
-
-
  
 <!--
 
