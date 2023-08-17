@@ -50,9 +50,9 @@
 <!--<img width=60% src="https://github-readme-stats.vercel.app/api?username=bloodbrother&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF&hide=commits" /> -->
 
  <a href="https://github.com/bloodbrother">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=bloodbrother&background=0D1117&dates=ffc800&currStreakNum=DD2727&fire=DD2727&ring=58A6FF&sideNums=ffc800&currStreakLabel=58A6FF&stroke=58A6FF&sideLabels=58A6FF&hide_border=true&layout=compact" height="180em"/>
- <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodbrother&layout=compact&hide=handlebars,ruby,php,scss,less&hide_border=true&count_private=true&show_icons=true&bg_color=0d1117&icon_color=DD2727&text_color=58A6FF&title_color=ffc800"/>
-  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloodbrother&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF"/></div>
+  <div align="center"><img src="https://github-readme-streak-stats.herokuapp.com?user=bloodbrother&background=0D1117&dates=ffc800&currStreakNum=DD2727&fire=DD2727&ring=58A6FF&sideNums=ffc800&currStreakLabel=58A6FF&stroke=58A6FF&sideLabels=58A6FF&hide_border=true&layout=compact" width="80%" align="center" /></div>
+<!--  <img width="380em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bloodbrother&layout=compact&hide=handlebars,ruby,php,scss,less&hide_border=true&count_private=true&show_icons=true&bg_color=0d1117&icon_color=DD2727&text_color=58A6FF&title_color=ffc800"/>
+  <div align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=bloodbrother&show_icons=true&hide_border=true&bg_color=0d1117&title_color=ffc800&icon_color=DD2727&text_color=58A6FF"/></div> -->
   
   
  
